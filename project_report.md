@@ -33,13 +33,13 @@ PCA
 
 TODO: Replace the image below with your own.
 
-![model_train_score.png](img/model_train_score.png)
+![model_train_score.png](model_train_score.png)
 
 ### Create a line plot showing the top kaggle score for the three (or more) prediction submissions during the project.
 
 TODO: Replace the image below with your own.
 
-![model_test_score.png](img/model_test_score.png)
+![model_test_score.png](model_test_score.png)
 
 ## Summary
 This project helped me to apply what I learned to create a profissnal modal using Autgloun on a real life problem with a score of 0.7 which is amazing for my first time trying to do something like this
